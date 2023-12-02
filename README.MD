@@ -1,0 +1,2 @@
+This project is all abt  bloginSite mini project.where we have to write full backend code with diff api.In this project we were suppose to create total 7 api. when we compair this with real life it help of any author  who can register himself/herself an create a account then they can easily post his blog.also we were use authontication and authorization for login and security purpose with that if he or she want to delete or update the blolg no anyone  one can edit or delete othere blog posts.
+ 
